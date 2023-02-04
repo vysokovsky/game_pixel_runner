@@ -1,0 +1,4 @@
+*.sublime-*
+graphics/Player?/
+__pycache__/
+spec.md
